@@ -2,7 +2,7 @@
 #include "SimpleAudioEngine.h"
 
 USING_NS_CC;
-
+// 2nd commit test
 SecondScreen::SecondScreen()
 {
 	_scene = cocos2d::Scene::create();
